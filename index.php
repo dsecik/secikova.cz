@@ -44,7 +44,7 @@ A:hover{
 			<center>
 				<font color="white"><font size="+5">Petra Jandourková</font></font>
 				<p>
-				<font color="white"><font size="+3">VÝUKA, PŘEKLADY A TLUMOČENÍ</font></font>
+				<font color="white"><font size="+3">VÝUKA, PŘEKLADY A&nbsp;TLUMOČENÍ</font></font>
 				<p>
 				<font color="white"><font size="+2"><b>NĚMECKÝ JAZYK</b></font></font>
 				<p>
@@ -73,17 +73,17 @@ A:hover{
 		<td width="600" height="400">
 <font color="white">
 
-<b>Nabízím překlady a tlumočení z němčiny do češtiny i z češtiny do němčiny<br> 
-a výuku němčiny v Brně.</b> 
+<b>Nabízím překlady a&nbsp;tlumočení z&nbsp;němčiny do češtiny i&nbsp;z češtiny do němčiny<br> 
+a výuku němčiny v&nbsp;Brně.</b> 
 <p>
 
 
-Vystudovala jsem překladatelství a učitelství němčiny na Masarykově univerzitě <br>
-a těmto profesím se věnuji od roku 2012. Zaměřuji se hlavně na překlady webových stránek, firemní korespondence a textů z oblasti IT, ekologie, knihovnictví a dalších. Záleží mi na kvalitě překladu a spolehlivém dodržování termínů.   
+Vystudovala jsem překladatelství a&nbsp;učitelství němčiny na Masarykově univerzitě <br>
+a těmto profesím se věnuji od roku 2012. Zaměřuji se hlavně na překlady webových stránek, firemní korespondence a&nbsp;textů z&nbsp;oblasti IT, ekologie, knihovnictví a&nbsp;dalších. Záleží mi na kvalitě překladu a&nbsp;spolehlivém dodržování termínů.   
 <p>
 
 
-Ve výuce je kladen důraz na praktické využití jazyka a preference klienta. I z tohoto důvodu upřednostňuji individuální lekce a výuku malých skupin. Kromě obecného jazyka nabízím pro mírně a středně pokročilé také individuální či skupinovou výuku obchodní korespondence (psaní emailů, telefonování, motivační dopis atd.). 
+Ve výuce je kladen důraz na praktické využití jazyka a&nbsp;preference klienta. I&nbsp;z&nbsp;tohoto důvodu upřednostňuji individuální lekce a&nbsp;výuku malých skupin. Kromě obecného jazyka nabízím pro mírně a&nbsp;středně pokročilé také individuální či skupinovou výuku obchodní korespondence (psaní e-mailů, telefonování, motivační dopis atd.). 
 
 <font>
 		</td>
@@ -106,13 +106,13 @@ Ve výuce je kladen důraz na praktické využití jazyka a preference klienta. 
 <font size="+2"><font color="0f3062"><b>VÝUKA</b></font>
 </font><p>
 - individuální, skupinová či firemní výuka<br>
-- obecná němčina pro začátečníky i pokročilé<br>
+- obecná němčina pro začátečníky i&nbsp;pokročilé<br>
 
-- obchodní němčina (telefonování, emaily, pracovní pohovor, životopis, motivační dopis)
+- obchodní němčina (telefonování, e-maily, pracovní pohovor, životopis, motivační dopis)
 <p>
 
 
-Výuka zpravidla probíhá v učebně na ulici Lidická v Brně, mohu ale samozřejmě přijet i přímo k Vám. 
+Výuka zpravidla probíhá v&nbsp;učebně na ulici Lidická v&nbsp;Brně, mohu ale samozřejmě přijet i&nbsp;přímo k&nbsp;Vám. 
 		</td>
 		<td width="50" height="">
 
@@ -155,7 +155,7 @@ Výuka zpravidla probíhá v učebně na ulici Lidická v Brně, mohu ale samoz�
 	</tr>
 	<tr bgcolor="e8e7e7">
 		<td width="220" height="50">
-			<center>skupiny 2 a více osob</center>
+			<center>skupiny 2 a&nbsp;více osob</center>
 		</td>
 		<td width="120" height="50">
 			<center><b>550</b> Kč</center>
@@ -172,7 +172,7 @@ Výuka zpravidla probíhá v učebně na ulici Lidická v Brně, mohu ale samoz�
 
 
 <p>
-V případě dojíždění za klientem po Brně v rámci zón 100+101 je navíc účtován poplatek 70 Kč.
+V případě dojíždění za klientem po Brně v&nbsp;rámci zón 100+101 je navíc účtován poplatek 70&nbsp;Kč.
 		</td>
 	</tr>
 </table>
@@ -196,13 +196,13 @@ V případě dojíždění za klientem po Brně v rámci zón 100+101 je navíc 
 		<td width="460" height="">
 <font size="+2"><font color="0f3062"><b>PŘEKLADY</b></font>
 </font><p>
-- obecné i odborné překlady z němčiny do češtiny a z češtiny do 
+- obecné i&nbsp;odborné překlady z&nbsp;němčiny do češtiny a&nbsp;z&nbsp;češtiny do 
 němčiny<br>
 
 - možnost expresních termínů<br>
 
-- překlady webových stránek, prezentací, výročních zpráv, textů z oblasti IT, 
-ekologie, pedagogiky, knihovnictví, cestovního ruchu a dalších
+- překlady webových stránek, prezentací, výročních zpráv, textů z&nbsp;oblasti IT, 
+ekologie, pedagogiky, knihovnictví, cestovního ruchu a&nbsp;dalších
 <p>
 
 
@@ -286,7 +286,7 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 
 
 <p>
-Ceny jsou uvedené za normostranu výchozího textu, tzn. 1800 znaků včetně mezer, a závisí na terminologické náročnosti textu a termínu dodání překladu. 
+Ceny jsou uvedené za normostranu výchozího textu, tzn. 1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu. 
 
 Minimální cena zakázky je 200 Kč.
 		</td>
@@ -300,16 +300,16 @@ Minimální cena zakázky je 200 Kč.
 		<td width="460" height="">
 <font size="+2"><font color="0f3062"><b>TLUMOČENÍ</b></font>
 </font><p>
-- doprovodné a konsekutivní tlumočení z němčiny do češtiny <br>a z češtiny 
+- doprovodné a&nbsp;konsekutivní tlumočení z&nbsp;němčiny do češtiny <br>a&nbsp;z&nbsp;češtiny 
 do němčiny<br>
 
 - obchodní jednání, porady, prezentace, společenské akce
 <p>
-<b>Doprovodné tlomočení</b> se využívá především při obchodních cestách a společenských akcích. Tlumočník usnadňuje orientaci zákazníka v cizojazyčném prostředí. 
+<b>Doprovodné tlumočení</b> se využívá především při obchodních cestách a&nbsp;společenských akcích. Tlumočník usnadňuje orientaci zákazníka v&nbsp;cizojazyčném prostředí. 
 <p>
 
 
-Při <b>konsekutivním tlumočení</b> hovoří řečník v kratších úsecích <br> a dělá ve svém projevu pauzy, v nichž tlumočník převede vyslovené myšlenky do cílového jazyka. 
+Při <b>konsekutivním tlumočení</b> hovoří řečník v&nbsp;kratších úsecích <br> a&nbsp;dělá ve svém projevu pauzy, v&nbsp;nichž tlumočník převede vyslovené myšlenky do cílového jazyka. 
 		</td>
 		<td width="50" height="">
 
@@ -360,7 +360,7 @@ Při <b>konsekutivním tlumočení</b> hovoří řečník v kratších úsecích
 			<center><b>4.500</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>7.000</b> Kč</center>
+			<center><b>-</b></center>
 		</td>
 	</tr>
 </table>
@@ -386,7 +386,7 @@ Ceny jsou konečné, nejsem plátcem DPH.
 	<tr>
 		<td width="470" height="">
 
-<i>I would absolutely recommend Petra Jandourkova as a German tutor. She tutored my 12 year old son in German for 8 months and we were extremely satisfied. Petra does a phenomenal job in preparing for each lesson; she always plans interesting activities that kept my son very engaged in learning. He actually looked forward to his lesson every week! Petra is very well organized and highly skilled in teaching individuals of all ages.
+<i>I would absolutely recommend Petra Jandourkova as a&nbsp;German tutor. She tutored my 12 year old son in German for 8 months and we were extremely satisfied. Petra does a&nbsp;phenomenal job in preparing for each lesson; she always plans interesting activities that kept my son very engaged in learning. He actually looked forward to his lesson every week! Petra is very well organized and highly skilled in teaching individuals of all ages.
 	
 	<p>						<b>Tyler Golden</b></i>
 		</td>
@@ -395,7 +395,7 @@ Ceny jsou konečné, nejsem plátcem DPH.
 		</td>
 
 		<td valign="top" width="470" height="">
-<i>Po tolika letech předstírání učení se němčiny jsem konečně pochopila, že je to opravdu jazyk určený především ke komunikaci mezi lidmi. Jen díky Petře jsem byla schopná projít několika pohovory v němčině – jak po telefonu, tak i osobními, a získat <br>v Německu práci. Před půl rokem bych tomu rozhodně nevěřila.	
+<i>Po tolika letech předstírání učení se němčiny jsem konečně pochopila, že je to opravdu jazyk určený především ke komunikaci mezi lidmi. Jen díky Petře jsem byla schopná projít několika pohovory v&nbsp;němčině – jak po telefonu, tak i&nbsp;osobními, a&nbsp;získat v&nbsp;Německu práci. Před půl rokem bych tomu rozhodně nevěřila.	
 	<p>						<b>Anna Kubalíková</b></i>
 		</td>
 	</tr>
@@ -409,7 +409,7 @@ Ceny jsou konečné, nejsem plátcem DPH.
 <b>Překlady</b>
 <p>
 Red Hat Czech, s.r.o. <br>
-Moravská zemská knihovna v Brně<br>
+Moravská zemská knihovna v&nbsp;Brně<br>
 Förderverein Natura Miriquidica e.V.<br>
 Checkstone Survey Technologies GmbH<br>
 		</td>
