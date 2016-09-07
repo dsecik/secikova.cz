@@ -286,7 +286,7 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 
 
 <p>
-Ceny jsou uvedené za normostranu výchozího textu, tzn. 1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu. 
+Ceny jsou uvedené za normostranu výchozího textu, tzn.&nbsp;1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu. 
 
 Minimální cena zakázky je 200 Kč.
 		</td>
