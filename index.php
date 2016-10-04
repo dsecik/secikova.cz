@@ -428,7 +428,7 @@ Checkstone Survey Technologies GmbH<br>
 <table width="100%" height="400" cellpadding="0" cellspacing="0" border="0" bgcolor="0f3062">
 	<tr>
 		<td>
-<center><br><br>
+<center><br>
 <style>
 	.mf input[type="text"], .mf textarea {
 		padding: 5px;
@@ -448,6 +448,8 @@ Checkstone Survey Technologies GmbH<br>
 		background: green;
 	}
 </style>
+
+<p><font color="white">Máte zájem o výuku němčiny, překlad či tlumočení?<br>Kontaktujte mě:</font></p>
 
 <form action="form_success.php" method="post" class="mf">
 	<table border="0">
