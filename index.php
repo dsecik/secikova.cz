@@ -449,7 +449,7 @@ Checkstone Survey Technologies GmbH<br>
 	}
 </style>
 
-<p><font color="white">Máte zájem o výuku němčiny, překlad či tlumočení?<br>Kontaktujte mě:</font></p>
+<p><font color="white"><b>Máte zájem o výuku němčiny, překlad či tlumočení?</b><br><br>Kontaktujte mě:</font></p>
 
 <form action="form_success.php" method="post" class="mf">
 	<table border="0">
