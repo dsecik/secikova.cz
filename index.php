@@ -235,7 +235,7 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 	<tr bgcolor="e8e7e7">
 		<td width="220" height="50">
 			<center><b>obecné texty</b><br>
-				(webové stránky, obchodní korespondence..)
+				(webové stránky, obchodní korespondence...)
 			</center>
 		</td>
 		<td width="120" height="50">
@@ -252,7 +252,7 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 	<tr bgcolor="e8e7e7">
 		<td width="220" height="50">
 			<center><b>odborné texty</b><br>
-				(manuály, smlouvy..)
+				(manuály, smlouvy...)
 			</center>
 		</td>
 		<td width="120" height="50">
