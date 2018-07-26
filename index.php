@@ -143,10 +143,10 @@ Výuka zpravidla probíhá v&nbsp;učebně na ulici Lidická v&nbsp;Brně, mohu 
 			<center>individuální lekce</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>400</b> Kč</center>
+			<center><b>450</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>550</b> Kč</center>
+			<center><b>650</b> Kč</center>
 		</td>
 	</tr>
 	<tr>
@@ -158,10 +158,10 @@ Výuka zpravidla probíhá v&nbsp;učebně na ulici Lidická v&nbsp;Brně, mohu 
 			<center>skupiny 2 a&nbsp;více osob</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>550</b> Kč</center>
+			<center><b>600</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>700</b> Kč</center>
+			<center><b>800</b> Kč</center>
 		</td>
 	</tr>
 </table>
