@@ -61,10 +61,6 @@ A:hover{
 			<center>
 
 
-
-
-
-
 <table width="960" height="400" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td width="360" height="400">
@@ -73,17 +69,19 @@ A:hover{
 		<td width="600" height="400">
 <font color="white">
 
-<b>Nabízím překlady a&nbsp;tlumočení z&nbsp;němčiny do češtiny i&nbsp;z češtiny do němčiny<br> 
-a výuku němčiny v&nbsp;Brně.</b> 
+<b>Nabízím překlady a&nbsp;tlumočení z&nbsp;němčiny do&nbsp;češtiny i&nbsp;z&nbsp;češtiny do&nbsp;němčiny a&nbsp;výuku němčiny v&nbsp;Brně.</b>
+
 <p>
 
+Vystudovala jsem překladatelství a&nbsp;učitelství němčiny na Masarykově univerzitě a&nbsp;těmto profesím se věnuji od roku 2012.
+Zaměřuji se na překlady webových stránek, firemní korespondence, textů z&nbsp;oblasti práva, strojírenství, IT a&nbsp;dalších.
+Záleží mi na kvalitě překladu a&nbsp;spolehlivém dodržování termínů.
 
-Vystudovala jsem překladatelství a&nbsp;učitelství němčiny na Masarykově univerzitě <br>
-a těmto profesím se věnuji od roku 2012. Zaměřuji se hlavně na překlady webových stránek, firemní korespondence a&nbsp;textů z&nbsp;oblasti IT, ekologie, knihovnictví a&nbsp;dalších. Záleží mi na kvalitě překladu a&nbsp;spolehlivém dodržování termínů.   
 <p>
 
-
-Ve výuce je kladen důraz na praktické využití jazyka a&nbsp;preference klienta. I&nbsp;z&nbsp;tohoto důvodu upřednostňuji individuální lekce a&nbsp;výuku malých skupin. Kromě obecného jazyka nabízím pro mírně a&nbsp;středně pokročilé také individuální či skupinovou výuku obchodní korespondence (psaní e-mailů, telefonování, motivační dopis atd.). 
+Ve výuce je kladen důraz na praktické využití jazyka a&nbsp;preference klienta. I&nbsp;z&nbsp;tohoto důvodu upřednostňuji individuální lekce a&nbsp;výuku malých skupin.
+Nabízím výuku obecné a/nebo obchodní němčiny a firemní výuku v Brně a&nbsp;okolí s&nbsp;důrazem na&nbsp;individuální potřeby daného zaměstnance.
+Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnostech, v&nbsp;IT firmách a&nbsp;call centrech.
 
 <font>
 		</td>
@@ -100,19 +98,19 @@ Ve výuce je kladen důraz na praktické využití jazyka a&nbsp;preference klie
 
 </table>
 
-<table width="960" height="300" cellpadding="0" cellspacing="0" border="0">
+<table width="960" height="250" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td width="460" height="">
-<font size="+2"><font color="0f3062"><b>VÝUKA</b></font>
+<font size="+2"><font color="0f3062"><b>VÝUKA V BRNĚ</b></font>
 </font><p>
-- individuální, skupinová či firemní výuka<br>
-- obecná němčina pro začátečníky i&nbsp;pokročilé<br>
+<ul>
+  <li>obecná němčina pro začátečníky i&nbsp;pokročilé</li>
+  <li>obchodní němčina (telefonování, e-maily, pracovní pohovor, životopis, motivační dopis)</li>
+  <li>učebna v&nbsp;centru Brna u&nbsp;parku Lužánky, přímo naproti tramvajové zastávce</li>
+</ul>
 
-- obchodní němčina (telefonování, e-maily, pracovní pohovor, životopis, motivační dopis)
 <p>
 
-
-Výuka zpravidla probíhá v&nbsp;učebně na ulici Lidická v&nbsp;Brně, mohu ale samozřejmě přijet i&nbsp;přímo k&nbsp;Vám. 
 		</td>
 		<td width="50" height="">
 
@@ -166,47 +164,117 @@ Výuka zpravidla probíhá v&nbsp;učebně na ulici Lidická v&nbsp;Brně, mohu 
 	</tr>
 </table>
 
-
-
-
-
-
-<p>
-V případě dojíždění za klientem po Brně v&nbsp;rámci zón 100+101 je navíc účtován poplatek 70&nbsp;Kč.
 		</td>
 	</tr>
 </table>
 
-<p>
 
-
-<table width="960" height="" cellpadding="0" cellspacing="0" border="0">
+<table width="960" height="200" cellpadding="0" cellspacing="0" border="0">
 	<tr>
-		<td>
+		<td width="460" height="">
+<font size="+2"><font color="0f3062"><b>FIREMNÍ VÝUKA V BRNĚ A OKOLÍ</b></font>
+</font><p>
+<ul>
+    <li>důraz na potřeby klienta (manažerské, administrativní, technické profese)</li>
+    <li>zaměření na praktické a&nbsp;rychlé použití jazyka (telefonování, e&#8209;maily, schůzky, prezentace, small-talk a&nbsp;další)</li>
+</ul>
+<p>
+
+		</td>
+		<td width="50" height="">
+
+		</td>
+		<td width="450" height="" bgcolor="">
+
+<table width="450" height="" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="220" height="50">
+			<center><b>CENÍK</b></center>
+		</td>
+		<td width="120" height="50">
+		</td>
+		<td width="120" height="50">
+		</td>
+	</tr>
+	<tr>
+		<td width="220" height="20">
+		</td>
+	</tr>
+	<tr bgcolor="e8e7e7">
+		<td colspan="3" width="220" height="80">
+			<center>Cena se odvíjí od počtu hodin, jazykové úrovně klientů a&nbsp;dojezdové vzdálenosti. V&nbsp;případě zájmu o&nbsp;nezávaznou kalkulaci mě kontaktujte.</center>
+		</td>
+	</tr>
+</table>
 
 		</td>
 	</tr>
 </table>
 
 
+<table width="960" height="250" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="460" height="">
+<font size="+2"><font color="0f3062"><b>JAZYKOVÝ SERVIS</b></font>
+</font><p>
+<ul>
+    <li>telefonická či e&#8209;mailová komunikace s&nbsp;úřady</li>
+    <li>asistence při vyplňování formulářů, pomoc s&nbsp;dokumenty a&nbsp;vyhledáváním informací</li>
+    <li>sjednávání schůzek s&nbsp;obchodními partnery či&nbsp;klienty</li>
+    <li>tlumočení po telefonu</li>
+</ul>
 <p>
 
-<table width="960" height="300" cellpadding="0" cellspacing="0" border="0">
+		</td>
+		<td width="50" height="">
+
+		</td>
+		<td width="450" height="" bgcolor="">
+
+<table width="450" height="" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="220" height="50">
+			<center><b>CENÍK</b></center>
+		</td>
+		<td width="240" height="50" bgcolor="0f3062">
+			<center><font color="white"><b>60 minut</b></font></center>
+		</td>
+	</tr>
+	<tr>
+		<td width="220" height="10">
+		</td>
+	</tr>
+	<tr bgcolor="e8e7e7">
+		<td width="220" height="50">
+			<center>jazykový servis</center>
+		</td>
+		<td width="240" height="50">
+			<center><b>600</b> Kč</center>
+		</td>
+	</tr>
+
+</table>
+<p>
+<center>Minimální cena zakázky je 300 Kč.</center>
+		</td>
+	</tr>
+</table>
+
+
+<table width="960" height="400" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td width="460" height="">
 <font size="+2"><font color="0f3062"><b>PŘEKLADY</b></font>
 </font><p>
-- obecné i&nbsp;odborné překlady z&nbsp;němčiny do češtiny a&nbsp;z&nbsp;češtiny do 
-němčiny<br>
-
-- možnost expresních termínů<br>
-
-- překlady webových stránek, prezentací, výročních zpráv, textů z&nbsp;oblasti IT, 
-ekologie, pedagogiky, knihovnictví, cestovního ruchu a&nbsp;dalších
+<ul>
+    <li>obecné i&nbsp;odborné překlady z&nbsp;němčiny do češtiny a&nbsp;z&nbsp;češtiny do němčiny</li>
+    <li>možnost expresních termínů</li>
+    <li>překlady webových stránek, prezentací, výročních zpráv, textů z oblasti práva, strojírenství, IT, ekologie, pedagogiky, knihovnictví, cestovního ruchu a&nbsp;dalších</li>
+</ul>
 <p>
 
 
-Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném formátu. 
+Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném formátu.
 		</td>
 		<td width="50" height="">
 
@@ -286,30 +354,28 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 
 
 <p>
-Ceny jsou uvedené za normostranu výchozího textu, tzn.&nbsp;1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu. 
-
+Ceny jsou uvedené za normostranu výchozího textu, tzn.&nbsp;1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu.
 Minimální cena zakázky je 200 Kč.
 		</td>
 	</tr>
 </table>
 
-<p>
 
 <table width="960" height="300" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td width="460" height="">
 <font size="+2"><font color="0f3062"><b>TLUMOČENÍ</b></font>
 </font><p>
-- doprovodné a&nbsp;konsekutivní tlumočení z&nbsp;němčiny do češtiny <br>a&nbsp;z&nbsp;češtiny 
-do němčiny<br>
-
-- obchodní jednání, porady, prezentace, společenské akce
+<ul>
+    <li>doprovodné a&nbsp;konsekutivní tlumočení z&nbsp;němčiny do češtiny a&nbsp;z&nbsp;češtiny do němčiny</li>
+    <li>obchodní jednání, porady, prezentace, společenské akce</li>
+</ul>
 <p>
-<b>Doprovodné tlumočení</b> se využívá především při obchodních cestách a&nbsp;společenských akcích. Tlumočník usnadňuje orientaci zákazníka v&nbsp;cizojazyčném prostředí. 
+<b>Doprovodné tlumočení</b> se využívá především při obchodních cestách a&nbsp;společenských akcích. Tlumočník usnadňuje orientaci zákazníka v&nbsp;cizojazyčném prostředí.
 <p>
 
 
-Při <b>konsekutivním tlumočení</b> hovoří řečník v&nbsp;kratších úsecích <br> a&nbsp;dělá ve svém projevu pauzy, v&nbsp;nichž tlumočník převede vyslovené myšlenky do cílového jazyka. 
+Při <b>konsekutivním tlumočení</b> hovoří řečník v&nbsp;kratších úsecích <br> a&nbsp;dělá ve svém projevu pauzy, v&nbsp;nichž tlumočník převede vyslovené myšlenky do cílového jazyka.
 		</td>
 		<td width="50" height="">
 
@@ -370,7 +436,7 @@ Při <b>konsekutivním tlumočení</b> hovoří řečník v&nbsp;kratších úse
 
 
 <p>
-Ceny jsou konečné, nejsem plátcem DPH.  
+Ceny jsou konečné, nejsem plátcem DPH.
 		</td>
 	</tr>
 </table>
@@ -387,7 +453,7 @@ Ceny jsou konečné, nejsem plátcem DPH.
 		<td width="470" height="">
 
 <i>I would absolutely recommend Petra Jandourkova as a&nbsp;German tutor. She tutored my 12 year old son in German for 8 months and we were extremely satisfied. Petra does a&nbsp;phenomenal job in preparing for each lesson; she always plans interesting activities that kept my son very engaged in learning. He actually looked forward to his lesson every week! Petra is very well organized and highly skilled in teaching individuals of all ages.
-	
+
 	<p>						<b>Tyler Golden</b></i>
 		</td>
 		<td width="20" height="">
@@ -395,7 +461,7 @@ Ceny jsou konečné, nejsem plátcem DPH.
 		</td>
 
 		<td valign="top" width="470" height="">
-<i>Po tolika letech předstírání učení se němčiny jsem konečně pochopila, že je to opravdu jazyk určený především ke komunikaci mezi lidmi. Jen díky Petře jsem byla schopná projít několika pohovory v&nbsp;němčině – jak po telefonu, tak i&nbsp;osobními, a&nbsp;získat v&nbsp;Německu práci. Před půl rokem bych tomu rozhodně nevěřila.	
+<i>Po tolika letech předstírání učení se němčiny jsem konečně pochopila, že je to opravdu jazyk určený především ke komunikaci mezi lidmi. Jen díky Petře jsem byla schopná projít několika pohovory v&nbsp;němčině – jak po telefonu, tak i&nbsp;osobními, a&nbsp;získat v&nbsp;Německu práci. Před půl rokem bych tomu rozhodně nevěřila.
 	<p>						<b>Anna Kubalíková</b></i>
 		</td>
 	</tr>
@@ -409,6 +475,7 @@ Ceny jsou konečné, nejsem plátcem DPH.
 <b>Překlady</b>
 <p>
 Red Hat Czech, s.r.o. <br>
+Vino Versum Poysdorf<br>
 Moravská zemská knihovna v&nbsp;Brně<br>
 Förderverein Natura Miriquidica e.V.<br>
 Checkstone Survey Technologies GmbH<br>
@@ -435,7 +502,7 @@ Checkstone Survey Technologies GmbH<br>
 		border-radius: 0px;	/* Zaoblení rohů */
 		border: 1px solid silver; /* ohraničení textového pole */
 	}
-	
+
 	/* Styly pro tlačítko */
 	.mf input[type="submit"] {
 		border: 1px solid silver;
