@@ -55,6 +55,7 @@ A:hover{
 </table>
 
 
+
 <table width="100%" height="400" cellpadding="0" cellspacing="0" border="0" bgcolor="0f3062">
 	<tr>
 		<td valign="center">
@@ -163,7 +164,8 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 		</td>
 	</tr>
 </table>
-
+<p>
+<center><font size="-1">Výuku lze hradit vybranými druhy poukázek <b>Sodexo</b> a&nbsp;<b>Edenred</b>.</font></center>
 		</td>
 	</tr>
 </table>
@@ -206,7 +208,8 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 		</td>
 	</tr>
 </table>
-
+<p>
+<center><font size="-1">Výuku lze hradit vybranými druhy poukázek <b>Sodexo</b> a&nbsp;<b>Edenred</b>.</font></center>
 		</td>
 	</tr>
 </table>
@@ -255,7 +258,7 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 
 </table>
 <p>
-<center>Minimální cena zakázky je 300 Kč.</center>
+<center><font size="-1">Minimální cena zakázky je 300 Kč.</font></center>
 		</td>
 	</tr>
 </table>
@@ -348,14 +351,9 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 		</td>
 	</tr>
 </table>
-
-
-
-
-
 <p>
-Ceny jsou uvedené za normostranu výchozího textu, tzn.&nbsp;1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu.
-Minimální cena zakázky je 200 Kč.
+<center><font size="-1">Ceny jsou uvedené za normostranu výchozího textu, tzn.&nbsp;1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu.
+Minimální cena zakázky je 200 Kč.</font></center>
 		</td>
 	</tr>
 </table>
@@ -436,7 +434,7 @@ Při <b>konsekutivním tlumočení</b> hovoří řečník v&nbsp;kratších úse
 
 
 <p>
-Ceny jsou konečné, nejsem plátcem DPH.
+<center><font size="-1">Ceny jsou konečné, nejsem plátcem DPH.</font></center>
 		</td>
 	</tr>
 </table>
@@ -515,7 +513,7 @@ Checkstone Survey Technologies GmbH<br>
 		background: green;
 	}
 </style>
-
+<font color="red"><font size="+2"><b>DOVOLENÁ 27.10.-11.11.2018</b></font></font>
 <p><font color="white"><b>Máte zájem o výuku němčiny, překlad či tlumočení?</b><br><br>Kontaktujte mě:</font></p>
 
 <form action="form_success.php" method="post" class="mf">
