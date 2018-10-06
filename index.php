@@ -178,7 +178,7 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 </font><p>
 <ul>
     <li>důraz na potřeby klienta (manažerské, administrativní, technické profese)</li>
-    <li>zaměření na praktické a&nbsp;rychlé použití jazyka (telefonování, e&#8209;maily, schůzky, prezentace, small-talk a&nbsp;další)</li>
+    <li>zaměření na praktické a&nbsp;rychlé použití jazyka (telefonování, e&#8209;maily, schůzky, prezentace, small&nbsp;talk a&nbsp;další)</li>
 </ul>
 <p>
 
@@ -222,7 +222,7 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 </font><p>
 <ul>
     <li>telefonická či e&#8209;mailová komunikace s&nbsp;úřady</li>
-    <li>asistence při vyplňování formulářů, pomoc s&nbsp;dokumenty a&nbsp;vyhledáváním informací</li>
+    <li>asistence při vyplňování formulářů a&nbsp;pomoc s&nbsp;vyhledáváním informací</li>
     <li>sjednávání schůzek s&nbsp;obchodními partnery či&nbsp;klienty</li>
     <li>tlumočení po telefonu</li>
 </ul>
@@ -310,10 +310,10 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 			</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>290</b> Kč</center>
+			<center><b>230</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>320</b> Kč</center>
+			<center><b>250</b> Kč</center>
 		</td>
 	</tr>
 	<tr>
@@ -327,10 +327,10 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 			</center>
 		</td>
 		<td width="120" height="50">
-			<center>od <b>350</b> Kč</center>
+			<center>od <b>260</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center>od <b>450</b> Kč</center>
+			<center>od <b>300</b> Kč</center>
 		</td>
 	</tr>
 	<tr>
@@ -369,11 +369,7 @@ Minimální cena zakázky je 200 Kč.</font></center>
     <li>obchodní jednání, porady, prezentace, společenské akce</li>
 </ul>
 <p>
-<b>Doprovodné tlumočení</b> se využívá především při obchodních cestách a&nbsp;společenských akcích. Tlumočník usnadňuje orientaci zákazníka v&nbsp;cizojazyčném prostředí.
-<p>
 
-
-Při <b>konsekutivním tlumočení</b> hovoří řečník v&nbsp;kratších úsecích <br> a&nbsp;dělá ve svém projevu pauzy, v&nbsp;nichž tlumočník převede vyslovené myšlenky do cílového jazyka.
 		</td>
 		<td width="50" height="">
 
@@ -403,35 +399,16 @@ Při <b>konsekutivním tlumočení</b> hovoří řečník v&nbsp;kratších úse
 	</tr>
 	<tr bgcolor="e8e7e7">
 		<td width="220" height="50">
-			<center>doprovodné tlumočení</center>
+			<center>tlumočení</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>3.500</b> Kč</center>
+			<center><b>3.000</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>6.000</b> Kč</center>
-		</td>
-	</tr>
-	<tr>
-		<td width="220" height="10">
-		</td>
-	</tr>
-	<tr bgcolor="e8e7e7">
-		<td width="220" height="50">
-			<center>konsekutivní tlumočení</center>
-		</td>
-		<td width="120" height="50">
-			<center><b>4.500</b> Kč</center>
-		</td>
-		<td width="120" height="50">
-			<center><b>-</b></center>
+			<center><b>5.000</b> Kč</center>
 		</td>
 	</tr>
 </table>
-
-
-
-
 
 <p>
 <center><font size="-1">Ceny jsou konečné, nejsem plátcem DPH.</font></center>
@@ -513,7 +490,7 @@ Checkstone Survey Technologies GmbH<br>
 		background: green;
 	}
 </style>
-<font color="red"><font size="+2"><b>DOVOLENÁ 27.10.-11.11.2018</b></font></font>
+<font color="red"><font size="+2"><b>DOVOLENÁ 27. 10. - 11. 11. 2018</b></font></font>
 <p><font color="white"><b>Máte zájem o výuku němčiny, překlad či tlumočení?</b><br><br>Kontaktujte mě:</font></p>
 
 <form action="form_success.php" method="post" class="mf">
@@ -594,7 +571,7 @@ Brno - střed<br>
 
 jandourkova.petra@email.cz<br>
 
-+420774169573<br>
++420 774 169 573<br>
 <p>
 <a href="https://www.linkedin.com/in/petra-jandourkova-39a886104" target="_blank"><img src="linkedin.png"></a>
 
