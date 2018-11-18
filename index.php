@@ -490,7 +490,6 @@ Checkstone Survey Technologies GmbH<br>
 		background: green;
 	}
 </style>
-<font color="red"><font size="+2"><b>DOVOLENÁ 27. 10. - 11. 11. 2018</b></font></font>
 <p><font color="white"><b>Máte zájem o výuku němčiny, překlad či tlumočení?</b><br><br>Kontaktujte mě:</font></p>
 
 <form action="form_success.php" method="post" class="mf">
