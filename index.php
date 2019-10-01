@@ -3,7 +3,7 @@
     <meta name="description" content="VÝUKA, PŘEKLADY A TLUMOČENÍ"/>
     <meta name="keywords" content="výuka, překlady, tlumočení, němčina, neměcký, jazyk "/>
     <meta name="robots" content="all, follow"/>
-<title>Petra Jandourková</title>
+<title>Petra Sečíková</title>
 <meta charset="utf-8">
 <style type="text/css">
 body {
@@ -42,7 +42,7 @@ A:hover{
 	<tr>
 		<td valign="center">
 			<center>
-				<font color="white"><font size="+5">Petra Jandourková</font></font>
+				<font color="white"><font size="+5">Petra Sečíková</font></font>
 				<p>
 				<font color="white"><font size="+3">VÝUKA, PŘEKLADY A&nbsp;TLUMOČENÍ</font></font>
 				<p>
@@ -427,7 +427,7 @@ Minimální cena zakázky je 200 Kč.</font></center>
 	<tr>
 		<td width="470" height="">
 
-<i>I would absolutely recommend Petra Jandourkova as a&nbsp;German tutor. She tutored my 12 year old son in German for 8 months and we were extremely satisfied. Petra does a&nbsp;phenomenal job in preparing for each lesson; she always plans interesting activities that kept my son very engaged in learning. He actually looked forward to his lesson every week! Petra is very well organized and highly skilled in teaching individuals of all ages.
+<i>I would absolutely recommend Petra as a&nbsp;German tutor. She tutored my 12 year old son in German for 8 months and we were extremely satisfied. Petra does a&nbsp;phenomenal job in preparing for each lesson; she always plans interesting activities that kept my son very engaged in learning. He actually looked forward to his lesson every week! Petra is very well organized and highly skilled in teaching individuals of all ages.
 
 	<p>						<b>Tyler Golden</b></i>
 		</td>
@@ -558,7 +558,7 @@ Checkstone Survey Technologies GmbH<br>
 <p>
 
 
-Mgr. et Mgr. Petra Jandourková<br>
+Mgr. et Mgr. Petra Sečíková<br>
 <p>
 
 
@@ -568,11 +568,11 @@ Brno - střed<br>
 <p>
 
 
-jandourkova.petra@email.cz<br>
+secikova.petra@gmail.com<br>
 
 +420 774 169 573<br>
 <p>
-<a href="https://www.linkedin.com/in/petra-jandourkova-39a886104" target="_blank"><img src="linkedin.png"></a>
+<a href="https://www.linkedin.com/in/petra-se%C4%8D%C3%ADkov%C3%A1-39a886104/" target="_blank"><img src="linkedin.png"></a>
 
 <br><br>
 

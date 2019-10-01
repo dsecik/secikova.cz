@@ -1,1 +1,1 @@
-# jandourkova.cz
+# secikova.cz
