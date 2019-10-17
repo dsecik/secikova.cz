@@ -142,10 +142,10 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 			<center>individuální lekce</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>450</b> Kč</center>
+			<center><b>490</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>650</b> Kč</center>
+			<center><b>690</b> Kč</center>
 		</td>
 	</tr>
 	<tr>
@@ -157,10 +157,10 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 			<center>skupiny 2 a&nbsp;více osob</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>600</b> Kč</center>
+			<center><b>690</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>800</b> Kč</center>
+			<center><b>990</b> Kč</center>
 		</td>
 	</tr>
 </table>
