@@ -48,6 +48,9 @@ A:hover{
 				<p>
 				<font color="white"><font size="+2"><b>NĚMECKÝ JAZYK</b></font></font>
 				<p>
+                                <br/>
+                                <font color="red"><font size="+2"><b>Z DŮVODU MATEŘSKÉ DOVOLENÉ MINIMÁLNĚ DO KONCE ROKU 2020 NEPŘIJÍMÁM ZAKÁZKY.</b></font></font>
+                                <p>
 
 			</center>
 		</td>
@@ -102,12 +105,11 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 <table width="960" height="250" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td width="460" height="">
-<font size="+2"><font color="0f3062"><b>VÝUKA V BRNĚ</b></font>
+<font size="+2"><font color="0f3062"><b>VÝUKA PŘES SKYPE</b></font>
 </font><p>
 <ul>
   <li>obecná němčina pro začátečníky i&nbsp;pokročilé</li>
   <li>obchodní němčina (telefonování, e-maily, pracovní pohovor, životopis, motivační dopis)</li>
-  <li>učebna v&nbsp;centru Brna u&nbsp;parku Lužánky, přímo naproti tramvajové zastávce</li>
 </ul>
 
 <p>
@@ -120,52 +122,29 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 
 
 
-
 <table width="450" height="" cellpadding="0" cellspacing="0" border="0">
-	<tr>
-		<td width="220" height="50">
-			<center><b>CENÍK</b></center>
-		</td>
-		<td width="120" height="50" bgcolor="0f3062">
-			<center><font color="white"><b>60 minut</b></font></center>
-		</td>
-		<td width="120" height="50" bgcolor="0f3062">
-			<center><font color="white"><b>90 minut</b></font></center>
-		</td>
-	</tr>
-	<tr>
-		<td width="220" height="10">
-		</td>
-	</tr>
-	<tr bgcolor="e8e7e7">
-		<td width="220" height="50">
-			<center>individuální lekce</center>
-		</td>
-		<td width="120" height="50">
-			<center><b>490</b> Kč</center>
-		</td>
-		<td width="120" height="50">
-			<center><b>690</b> Kč</center>
-		</td>
-	</tr>
-	<tr>
-		<td width="220" height="10">
-		</td>
-	</tr>
-	<tr bgcolor="e8e7e7">
-		<td width="220" height="50">
-			<center>skupiny 2 a&nbsp;více osob</center>
-		</td>
-		<td width="120" height="50">
-			<center><b>690</b> Kč</center>
-		</td>
-		<td width="120" height="50">
-			<center><b>990</b> Kč</center>
-		</td>
-	</tr>
+        <tr>
+                <td width="220" height="50">
+                        <center><b>CENÍK</b></center>
+                </td>
+                <td width="240" height="50" bgcolor="0f3062">
+                        <center><font color="white"><b>60 minut</b></font></center>
+                </td>
+        </tr>
+        <tr>
+                <td width="220" height="10">
+                </td>
+        </tr>
+        <tr bgcolor="e8e7e7">
+                <td width="220" height="50">
+                        <center>individuální výuka</center>
+                </td>
+                <td width="240" height="50">
+                        <center><b>600</b> Kč</center>
+                </td>
+        </tr>
+
 </table>
-<p>
-<center><font size="-1">Výuku lze hradit vybranými druhy poukázek <b>Sodexo</b> a&nbsp;<b>Edenred</b>.</font></center>
 		</td>
 	</tr>
 </table>
@@ -208,8 +187,6 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 		</td>
 	</tr>
 </table>
-<p>
-<center><font size="-1">Výuku lze hradit vybranými druhy poukázek <b>Sodexo</b> a&nbsp;<b>Edenred</b>.</font></center>
 		</td>
 	</tr>
 </table>
@@ -258,7 +235,7 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 
 </table>
 <p>
-<center><font size="-1">Minimální cena zakázky je 300 Kč.</font></center>
+<center><font size="-1">Minimální cena zakázky je 500 Kč.</font></center>
 		</td>
 	</tr>
 </table>
@@ -310,10 +287,10 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 			</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>230</b> Kč</center>
+			<center><b>300</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center><b>250</b> Kč</center>
+			<center><b>350</b> Kč</center>
 		</td>
 	</tr>
 	<tr>
@@ -327,10 +304,10 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 			</center>
 		</td>
 		<td width="120" height="50">
-			<center>od <b>260</b> Kč</center>
+			<center>od <b>320</b> Kč</center>
 		</td>
 		<td width="120" height="50">
-			<center>od <b>300</b> Kč</center>
+			<center>od <b>370</b> Kč</center>
 		</td>
 	</tr>
 	<tr>
@@ -353,7 +330,7 @@ Pro zachování grafické podoby je nutné zaslat soubor <br>v editovatelném fo
 </table>
 <p>
 <center><font size="-1">Ceny jsou uvedené za normostranu výchozího textu, tzn.&nbsp;1800&nbsp;znaků včetně mezer, a&nbsp;závisí na terminologické náročnosti textu a&nbsp;termínu dodání překladu.
-Minimální cena zakázky je 200 Kč.</font></center>
+Minimální cena zakázky je 500 Kč.</font></center>
 		</td>
 	</tr>
 </table>
@@ -422,28 +399,31 @@ Minimální cena zakázky je 200 Kč.</font></center>
 	<tr>
 <font size="+2"><font color="0f3062"><b>REFERENCE</b></font>
 </font><p>
-<b>Výuka</b>
+<b>Výuka - co o mně říkají klienti:</b>
 	</tr>
 	<tr>
 		<td width="470" height="">
 
-<i>I would absolutely recommend Petra as a&nbsp;German tutor. She tutored my 12 year old son in German for 8 months and we were extremely satisfied. Petra does a&nbsp;phenomenal job in preparing for each lesson; she always plans interesting activities that kept my son very engaged in learning. He actually looked forward to his lesson every week! Petra is very well organized and highly skilled in teaching individuals of all ages.
-
-	<p>						<b>Tyler Golden</b></i>
+<i>
+„Hodiny jsou šité na míru nejen vaší úrovni, ale také potřebám&nbsp;a&nbsp;požadavkům, takže pracujete na tom, na čem nejvíc potřebujete, a&nbsp;takovým způsobem, jaký vám nejvíce vyhovuje, což je velmi efektivní.“
+</i>
 		</td>
 		<td width="20" height="">
 
 		</td>
 
 		<td valign="top" width="470" height="">
-<i>Po tolika letech předstírání učení se němčiny jsem konečně pochopila, že je to opravdu jazyk určený především ke komunikaci mezi lidmi. Jen díky Petře jsem byla schopná projít několika pohovory v&nbsp;němčině – jak po telefonu, tak i&nbsp;osobními, a&nbsp;získat v&nbsp;Německu práci. Před půl rokem bych tomu rozhodně nevěřila.
-	<p>						<b>Anna Kubalíková</b></i>
+<i>
+„Po tolika letech předstírání učení se němčiny jsem konečně pochopila, že je to opravdu jazyk určený především ke komunikaci mezi lidmi.“
+<p>
+„Ve skupinovém kurzu bych se toho tolik za tak krátkou dobu určitě nenaučila.“
+</i>
 		</td>
 	</tr>
 </table>
 
 <p>
-
+<br/>
 
 <table width="960" height="" cellpadding="0" cellspacing="0" border="0">
 	<tr>
@@ -547,7 +527,7 @@ Checkstone Survey Technologies GmbH<br>
 <table width="960" height="400" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td width="550" height="">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2606.8461860825582!2d16.605046215767647!3d49.20347738430032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4712945ccdfa4a95%3A0x6237635be1c0394!2zTGlkaWNrw6EgMTg3NS80MCwgNjAyIDAwIEJybm8tc3TFmWVkLcSMZXJuw6EgUG9sZQ!5e0!3m2!1scs!2scz!4v1470831904981" width="550" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2598.247975206549!2d16.56698531569241!3d49.3663806793405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfbea31b5913436ff!2zTsSaTcSMSU5BIFBldHJhIFNlxI3DrWtvdsOhIChyb3ouIEphbmRvdXJrb3bDoSk!5e0!3m2!1scs!2scz!4v1590948606210!5m2!1scs!2scz" width="550" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</td>
 		<td width="50" height="">
 		</td>
@@ -562,9 +542,9 @@ Mgr. et Mgr. Petra Sečíková<br>
 <p>
 
 
-Lidická 40<br>
+Milonice 55<br>
 
-Brno - střed<br>
+67922 Milonice u Lipůvky<br>
 <p>
 
 
