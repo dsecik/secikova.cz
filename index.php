@@ -140,7 +140,7 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
                         <center>individuální výuka</center>
                 </td>
                 <td width="240" height="50">
-                        <center><b>600</b> Kč</center>
+                        <center><b>700</b> Kč</center>
                 </td>
         </tr>
 
@@ -229,7 +229,7 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
 			<center>jazykový servis</center>
 		</td>
 		<td width="240" height="50">
-			<center><b>600</b> Kč</center>
+			<center><b>700</b> Kč</center>
 		</td>
 	</tr>
 
