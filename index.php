@@ -49,7 +49,7 @@ A:hover{
 				<font color="white"><font size="+2"><b>NĚMECKÝ JAZYK</b></font></font>
 				<p>
                                 <br/>
-                                <font color="red"><font size="+2"><b>Z DŮVODU MATEŘSKÉ DOVOLENÉ DOČASNĚ NEPŘIJÍMÁM ZAKÁZKY.</b></font></font>
+                                <font color="red"><font size="+2"><b>Z DŮVODU PLNÉ KAPACITY DOČASNĚ NEPŘIJÍMÁM NOVÉ KLIENTY.</b></font></font>
                                 <p>
 
 			</center>
