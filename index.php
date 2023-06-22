@@ -47,10 +47,6 @@ A:hover{
 				<font color="white"><font size="+3">VÝUKA, PŘEKLADY A&nbsp;TLUMOČENÍ</font></font>
 				<p>
 				<font color="white"><font size="+2"><b>NĚMECKÝ JAZYK</b></font></font>
-				<p>
-                                <br/>
-                                <font color="red"><font size="+2"><b>Z DŮVODU PLNÉ KAPACITY DOČASNĚ NEPŘIJÍMÁM NOVÉ KLIENTY.</b></font></font>
-                                <p>
 
 			</center>
 		</td>
