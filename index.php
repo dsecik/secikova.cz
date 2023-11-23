@@ -53,8 +53,6 @@ A:hover{
 	</tr>
 </table>
 
-
-
 <table width="100%" height="400" cellpadding="0" cellspacing="0" border="0" bgcolor="0f3062">
 	<tr>
 		<td valign="center">
@@ -108,8 +106,8 @@ Zkušenosti mám především s&nbsp;výukou ve&nbsp;strojírenských společnos
   <li>obchodní němčina (telefonování, e-maily, pracovní pohovor, životopis, motivační dopis)</li>
 </ul>
 
-<p>
-
+<div class="reservio-booking-button btn-large" data-business-id="petra-secikova" data-text="Vytvořit rezervaci" data-bgcolor="#cf0d00" data-color="#fff"></div>
+<script id="reservio-widgets-script" type="text/javascript" src="https://static.reservio.com/js/widget.js"></script>
 		</td>
 		<td width="50" height="">
 
